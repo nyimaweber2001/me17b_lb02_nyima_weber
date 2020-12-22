@@ -1,0 +1,20 @@
+[
+  {
+    "id": "f6ea7e82-3a2e-40a4-bb96-ea589198267b",
+    "username": "hmuster",
+    "email": "muster.hans@beispiel.ch",
+    "password": "stG5xct3cr2YJHp"
+  },
+  {
+    "id": "21eae672-e79a-4a8c-8f5d-6920fed6aee6",
+    "username": "amuster",
+    "email": "muster.anna@beispiel.ch",
+    "password": "stG5xct3cr2YJHp"
+  },
+  {
+    "id": "dc1441e0-1a75-4d1b-9f27-9efb8aea12d7",
+    "username": "hsadfasdf2",
+    "email": "pseudoemail@beispiel.xy",
+    "password": "sadfasdfasdfsadf"
+  }
+]

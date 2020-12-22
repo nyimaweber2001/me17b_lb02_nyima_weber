@@ -1,0 +1,35 @@
+{
+  "name": "javascript_bootcamp",
+  "version": "1.0.0",
+  "description": "Learning JavaScript Programming",
+  "main": "index.js",
+  "scripts": {
+    "puzzleserver": "node 81_Puzzleserver/02_Excercise/server2.js",
+    "schoolserver": "node 82_Schoolserver/02_Excercise/server.js",
+    "registrationserver": "node 12b_validation_server/02_Excercises/register-server/server.js",
+    "loggerserver": "set NODE_ENV=development && node 13a_Logging/00_Demo/register-server/server.js",
+    "guitarserver": "node -r esm 89_Manufacturer/01_Intro/server.js"
+  },
+  "keywords": [
+    "Mediamatiker",
+    "ICT-07",
+    "javascript",
+    "bootcamp"
+  ],
+  "author": "daniel.garavaldi@bzz.ch",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.15",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.27.0",
+    "request-ip": "^2.1.3",
+    "sqlite3": "^5.0.0",
+    "uuid": "^8.3.1",
+    "winston": "^3.3.3",
+    "cors": "^2.8.5"
+  }
+}

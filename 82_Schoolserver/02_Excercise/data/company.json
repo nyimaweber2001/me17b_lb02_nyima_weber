@@ -1,0 +1,31 @@
+{
+  "company":[
+    {
+      "name":"SwissRe",
+      "id":101,
+      "contact":"Heinrich Meier",
+      "phone":0441234567,
+      "email":"info@swissre.test",
+      "url":"www.swissre.com",
+      "profession":"Mediamatiker*innen"
+    },
+    {
+      "id":102,
+      "name":"bildxzug",
+      "contact":"Sandra Meier",
+      "phone":"0413456789",
+      "email":"info@bildxzug.test",
+      "url":"www.bildxzug.ch",
+      "profession":"Mediamatiker*innen"
+    },
+    {
+      "id":103,
+      "name":"Sunrise",
+      "contact":"Berta Fridolin",
+      "phone":"0439817361",
+      "email":"info@sunrise.test",
+      "url":"www.sunrise.ch",
+      "profession":"Informatiker*innen"
+    }
+  ]
+}
